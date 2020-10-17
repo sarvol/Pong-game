@@ -1,0 +1,15 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+  }
+  
+
+
+ canvas { 
+     background: black; 
+     display: block; 
+     margin: 200px auto; 
+    }
